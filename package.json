@@ -1,0 +1,23 @@
+{
+  "name": "sesn-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sesn/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "wesbite"
+  ],
+  "author": "SESN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sesn/portfolio/issues"
+  },
+  "homepage": "https://github.com/sesn/portfolio#readme"
+}
